@@ -1,0 +1,14 @@
+{
+  "name": "dae2gltf",
+  "version": "1.0.5",
+  "description": "Node wrapper around KhronosGroup/COLLADA2GLTF tools.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  },
+  "contributors": [
+    "royjang"
+  ],
+  "register": "https://registry.npmjs.org/"
+}
